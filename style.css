@@ -1,0 +1,43 @@
+html{
+    height: 100%;
+}
+.background{
+    background-image: url(./assets/imgs/planet-736885_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.limit-size{
+    width: 70%;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding-top: 2%;
+    font-family: Roboto;
+    padding-bottom: 2%;
+    
+}
+.poster{
+    width: 400px;
+}
+body{
+    margin: 0;
+}
+.align-left{
+   text-align: left; 
+}
+td{
+    border: 1px white solid;
+    text-align: left;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.775);
+}
+a{
+    color: yellow;
+    text-decoration: none;
+
+}
